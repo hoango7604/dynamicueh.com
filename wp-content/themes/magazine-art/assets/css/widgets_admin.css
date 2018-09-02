@@ -1,0 +1,19 @@
+.media-picker-remove {position: absolute;margin-top: 0px;margin-left: 5px;color: #E48E8E;padding: 4px;width: 17px;height: 17px;text-align: center;cursor: pointer;opacity:.8;right: 0px;background-image: url(ico-delete.png);    background-repeat: no-repeat;
+    top: 0;}
+i.fa.fa-times.media-picker-remove:hover{ opacity:1;}
+a.media-picker-button.button {display: block; max-width: 100px;}
+.widget_input_wrap {margin: 15px 0;}
+img.media-picker-preview { max-width: 100%!important; height: auto;}
+
+.icon-color{  padding-bottom:5px;}
+.widget_input_wrap{overflow: hidden;position: relative;}
+
+
+h4.magart-widheading
+{
+    border: 1px solid #eee;
+    margin: 0px;
+    padding: 15px;
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
